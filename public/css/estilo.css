@@ -1,0 +1,16 @@
+#mostra-nomes-todos-clientes{
+	float:left;
+}
+
+#detalhamento-de-clientes{
+
+	margin-top:2%;
+	margin-right:15%;
+	float:right;
+	min-width:40%;
+}
+
+#tudo{
+
+	margin:5px;
+}
