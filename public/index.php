@@ -8,7 +8,7 @@
 
 <?php
     use GMR\classes;
-    require_once('src/GMR/inicializa-vetor.php');
+    require_once('inicializa-vetor.php');
 ?>
 
 <div id='tudo'>
