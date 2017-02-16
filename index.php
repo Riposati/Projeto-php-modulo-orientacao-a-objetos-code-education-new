@@ -1,14 +1,14 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<link rel="stylesheet" type="text/css" href="css/estilo.css">
-	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="public/css/estilo.css">
+	<link rel="stylesheet" type="text/css" href="public/css/bootstrap.min.css">
 </head>
 <body>
 
 <?php
     use GMR\classes;
-    require_once('inicializa-vetor.php');
+    require_once('public/inicializa-vetor.php');
 ?>
 
 <div id='tudo'>
@@ -54,7 +54,7 @@
 
 </div>
 
-<script src='scripts/mostra-detalhes.js'></script>
-<script src='scripts/funcoes-ordenacao.js'></script>
+<script src='public/scripts/mostra-detalhes.js'></script>
+<script src='public/scripts/funcoes-ordenacao.js'></script>
 
 </html>
