@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f5c36d5-e8f3-421f-a48b-0e1d573aacfb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GMR/classes/DAO/BaseDados.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GMR/classes/DAO/MeuPDO.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/inicializa-vetor.php" afterPath="$PROJECT_DIR$/public/inicializa-vetor.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,13 +18,13 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state relative-caret-position="357">
+              <caret line="29" column="30" lean-forward="false" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
               <folding>
-                <marker date="1489087375941" expanded="true" signature="407:465" ph="..." />
+                <marker date="1489088620295" expanded="true" signature="401:449" ph="..." />
               </folding>
             </state>
           </provider>
@@ -56,18 +53,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MeuPDO.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MeuPDO.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GMR/classes/DAO/MeuPDO.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+            <state relative-caret-position="306">
+              <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
               <folding>
                 <element signature="n#__construct#0;n#MeuPDO#0;n#!!top" expanded="false" />
-                <element signature="n#conectaBanco#0;n#MeuPDO#0;n#!!top" expanded="false" />
                 <element signature="n#persist#0;n#MeuPDO#0;n#!!top" expanded="false" />
                 <element signature="n#selectData#0;n#MeuPDO#0;n#!!top" expanded="false" />
-                <marker date="1489087413040" expanded="true" signature="1043:1216" ph="INSERT INTO clientes... " />
-                <marker date="1489087413040" expanded="true" signature="1671:1693" ph="select * fro... clientes" />
+                <marker date="1489088554833" expanded="true" signature="1043:1216" ph="INSERT INTO clientes... " />
+                <marker date="1489088554833" expanded="true" signature="1671:1693" ph="select * fro... clientes" />
               </folding>
             </state>
           </provider>
@@ -124,8 +120,8 @@
         <option value="$PROJECT_DIR$/src/GMR/classes/DAO/Pdo.php" />
         <option value="$PROJECT_DIR$/src/GMR/classes/DAO/BaseDados.php" />
         <option value="$PROJECT_DIR$/public/inicializa-vetor.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/src/GMR/classes/DAO/MeuPDO.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -332,12 +328,12 @@
       <workItem from="1486758519445" duration="4665000" />
       <workItem from="1487097755719" duration="2980000" />
       <workItem from="1487214196313" duration="502000" />
-      <workItem from="1489078881862" duration="8511000" />
+      <workItem from="1489078881862" duration="9215000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16671000" />
+    <option name="totallyTimeSpent" value="17375000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -380,7 +376,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1489087375941" expanded="true" signature="407:465" ph="..." />
+            <marker date="1489088620295" expanded="true" signature="401:449" ph="..." />
           </folding>
         </state>
       </provider>
@@ -390,7 +386,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1489087375941" expanded="true" signature="407:465" ph="..." />
+            <marker date="1489088620295" expanded="true" signature="401:449" ph="..." />
           </folding>
         </state>
       </provider>
@@ -400,7 +396,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1489087375941" expanded="true" signature="407:465" ph="..." />
+            <marker date="1489088620295" expanded="true" signature="401:449" ph="..." />
           </folding>
         </state>
       </provider>
@@ -454,24 +450,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GMR/classes/Cliente.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <marker date="1489087375941" expanded="true" signature="407:465" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/inicializa-vetor.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
@@ -493,15 +471,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GMR/classes/DAO/MeuPDO.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+        <state relative-caret-position="306">
+          <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
           <folding>
             <element signature="n#__construct#0;n#MeuPDO#0;n#!!top" expanded="false" />
-            <element signature="n#conectaBanco#0;n#MeuPDO#0;n#!!top" expanded="false" />
             <element signature="n#persist#0;n#MeuPDO#0;n#!!top" expanded="false" />
             <element signature="n#selectData#0;n#MeuPDO#0;n#!!top" expanded="false" />
-            <marker date="1489087413040" expanded="true" signature="1043:1216" ph="INSERT INTO clientes... " />
-            <marker date="1489087413040" expanded="true" signature="1671:1693" ph="select * fro... clientes" />
+            <marker date="1489088554833" expanded="true" signature="1043:1216" ph="INSERT INTO clientes... " />
+            <marker date="1489088554833" expanded="true" signature="1671:1693" ph="select * fro... clientes" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GMR/classes/Cliente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="29" column="30" lean-forward="false" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+          <folding>
+            <marker date="1489088620295" expanded="true" signature="401:449" ph="..." />
           </folding>
         </state>
       </provider>
